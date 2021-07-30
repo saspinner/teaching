@@ -1,3 +1,3 @@
 # teaching
 A repo for hosting instructive jupyter notebooks. 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saspinner/teaching/864de8bb14afdfdf749ee79da7d8d48d2c5481b3)
+[![Binder](https://mybinder.org/v2/gh/saspinner/teaching/2ad225c3c179e38c0854ac162ab1dcb59c522ea8)
